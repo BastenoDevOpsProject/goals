@@ -7,3 +7,5 @@ nelly
 manager
 bafoussam
 kumba
+deriko
+mello
