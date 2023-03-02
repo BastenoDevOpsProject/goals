@@ -5,7 +5,5 @@ wally
 usto
 nelly
 manager
-bafoussam
-kumba
 deriko
 mello
