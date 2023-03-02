@@ -4,3 +4,6 @@ moses
 wally
 usto
 nelly
+manager
+bafoussam
+kumba
